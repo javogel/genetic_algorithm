@@ -1,0 +1,17 @@
+{
+  "name": "genetic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genetic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "load-asset": "^1.2.0"
+  }
+}
